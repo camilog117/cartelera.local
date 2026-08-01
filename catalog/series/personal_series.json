@@ -1,3 +1,17 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tt0411008",
+      "type": "series",
+      "name": "Perdidos",
+      "poster": "https://image.tmdb.org/t/p/w500/47RazdqbtMmDxKHskObbHkc2D3o.jpg",
+      "releaseInfo": "2004",
+      "imdbRating": "8",
+      "genres": [
+        "Misterio",
+        "Action & Adventure",
+        "Drama"
+      ]
+    }
+  ]
 }

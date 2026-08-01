@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "id": "tt5950044",
+    "type": "movie",
+    "name": "Superman",
+    "poster": "https://image.tmdb.org/t/p/w500/fvUJb08yatV2b3NUSwuYdQKYoFd.jpg",
+    "background": "https://image.tmdb.org/t/p/original/eGX66zonvc4bXg3rM08RUxdYSDx.jpg",
+    "description": "En un mundo que ha perdido la fe en la bondad, Superman lucha por reconciliar su herencia kryptoniana con los valores humanos que moldearon su carácter. Criado en la Tierra, representa la verdad, la justicia y el estilo americano, pero debe enfrentarse a un mundo cínico que cuestiona sus ideales. Entre el deber de proteger a la humanidad y la búsqueda de su identidad, Superman demuestra que la esperanza y la bondad nunca pasan de moda, incluso en los tiempos más oscuros, inspirando a otros a creer en un futuro mejor.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.3",
+    "runtime": "129 min",
+    "genres": [
+      "Ciencia ficción",
+      "Aventura",
+      "Acción"
+    ],
+    "cast": [
+      "David Corenswet",
+      "Rachel Brosnahan",
+      "Nicholas Hoult",
+      "Edi Gathegi",
+      "Nathan Fillion",
+      "Isabela Merced",
+      "María Gabriela de Faría",
+      "Skyler Gisondo"
+    ],
+    "director": [
+      "James Gunn"
+    ],
+    "writer": [
+      "James Gunn"
+    ],
+    "country": "United States of America"
+  }
+}

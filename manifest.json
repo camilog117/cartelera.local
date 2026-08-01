@@ -1,7 +1,7 @@
 {
   "id": "com.tuusuario.miaddonpersonal",
   "version": "1.0.0",
-  "name": "Mi Addon Personal",
+  "name": "Cartelera Local",
   "description": "Catálogo personal de películas y series",
   "resources": [
     "catalog",
