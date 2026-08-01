@@ -12,6 +12,17 @@
         "Aventura",
         "Acción"
       ]
+    },
+    {
+      "id": "tt32093575",
+      "type": "movie",
+      "name": "Scary Movie",
+      "poster": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "genres": [
+        "Comedia"
+      ]
     }
   ]
 }
