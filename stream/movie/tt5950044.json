@@ -1,3 +1,10 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "name": "1080p Latino",
+      "title": "1080p Latino",
+      "url": "https://stream-3891-64-63.pkcdn.org/dash/lmohop5mbyikkfn2ma5psickhlqsie4bclqsnwlqynb66y4un6uc4tncky/manifest.mpd",
+      "subtitles": []
+    }
+  ]
 }
