@@ -23,6 +23,19 @@
       "genres": [
         "Comedia"
       ]
+    },
+    {
+      "id": "tt1922777",
+      "type": "movie",
+      "name": "Sinister",
+      "poster": "https://image.tmdb.org/t/p/w500/nsQTB6nIx3apZMbz9sZaEAmhJXp.jpg",
+      "releaseInfo": "2012",
+      "imdbRating": "6.9",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Misterio"
+      ]
     }
   ]
 }
