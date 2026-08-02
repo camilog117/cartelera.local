@@ -36,6 +36,19 @@
         "Suspense",
         "Misterio"
       ]
+    },
+    {
+      "id": "tt32654916",
+      "type": "movie",
+      "name": "Soulm8te",
+      "poster": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+      "releaseInfo": "2026",
+      "imdbRating": "6.1",
+      "genres": [
+        "Suspense",
+        "Ciencia ficción",
+        "Terror"
+      ]
     }
   ]
 }
