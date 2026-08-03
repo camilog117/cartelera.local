@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "id": "tt8814476",
+    "type": "movie",
+    "name": "Supergirl",
+    "poster": "https://image.tmdb.org/t/p/w500/Ao9ucdnMaBhNt528Z5S4Wxovgnf.jpg",
+    "background": "https://image.tmdb.org/t/p/original/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
+    "description": "Kara Zor-El es una heroína errabunda que decide aliarse a regañadientes con un compañero improbable para comenzar un viaje épico e interestelar de venganza y justicia, en el cual deberá decidir si su fuerza sirve para destruir o para proteger.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.7",
+    "runtime": "108 min",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "cast": [
+      "Milly Alcock",
+      "Eve Ridley",
+      "Matthias Schoenaerts",
+      "Jason Momoa",
+      "David Krumholtz",
+      "Emily Beecham",
+      "David Corenswet",
+      "Kadiff Kirwan"
+    ],
+    "director": [
+      "Craig Gillespie"
+    ],
+    "writer": [
+      "Ana Nogueira"
+    ],
+    "country": "United States of America"
+  }
+}

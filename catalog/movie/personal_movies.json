@@ -49,6 +49,19 @@
         "Ciencia ficción",
         "Terror"
       ]
+    },
+    {
+      "id": "tt8814476",
+      "type": "movie",
+      "name": "Supergirl",
+      "poster": "https://image.tmdb.org/t/p/w500/Ao9ucdnMaBhNt528Z5S4Wxovgnf.jpg",
+      "releaseInfo": "2026",
+      "imdbRating": "6.7",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ]
     }
   ]
 }
