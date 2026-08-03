@@ -1,9 +1,15 @@
 {
   "streams": [
     {
-      "name": "1080p subtitulado",
-      "title": "1080p subtitulado",
+      "name": "1080p subtitulado ",
+      "title": "1080p subtitulado ",
       "url": "https://callistanise.com/stream/8eo4uEhhFt_fWwqDgGFORA/hjkrhuihghfvu/1785757567/42449393/master.m3u8",
+      "subtitles": []
+    },
+    {
+      "name": "1080p subtitulado powvideo",
+      "title": "1080p subtitulado powvideo",
+      "url": "https://stream-4338-55-56.pkcdn.org/dash/kyohousmbqikkfn2mbopsykngzxchxo34mdprnmip4d37d7h5n2imicf7y/manifest.mpd",
       "subtitles": []
     }
   ]
