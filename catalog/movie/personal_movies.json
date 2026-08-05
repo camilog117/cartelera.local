@@ -62,6 +62,19 @@
         "Aventura",
         "Ciencia ficción"
       ]
+    },
+    {
+      "id": "tt15940132",
+      "type": "movie",
+      "name": "Máquina de guerra",
+      "poster": "https://image.tmdb.org/t/p/w500/5C18uOTbDZRvVIZcVRO747k2fUi.jpg",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4",
+      "genres": [
+        "Acción",
+        "Ciencia ficción",
+        "Suspense"
+      ]
     }
   ]
 }

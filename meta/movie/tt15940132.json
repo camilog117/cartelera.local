@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "id": "tt15940132",
+    "type": "movie",
+    "name": "Máquina de guerra",
+    "poster": "https://image.tmdb.org/t/p/w500/5C18uOTbDZRvVIZcVRO747k2fUi.jpg",
+    "background": "https://image.tmdb.org/t/p/original/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+    "description": "En una última misión agotadora durante el entrenamiento para ser ranger, un ingeniero de combate debe liderar a su unidad contra una gigantesca máquina asesina de otro mundo.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.4",
+    "runtime": "106 min",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Suspense"
+    ],
+    "cast": [
+      "Alan Ritchson",
+      "Dennis Quaid",
+      "Stephan James",
+      "Jai Courtney",
+      "Esai Morales",
+      "Blake Richardson",
+      "Keiynan Lonsdale",
+      "Jack Patten"
+    ],
+    "director": [
+      "Patrick Hughes"
+    ],
+    "writer": [
+      "Patrick Hughes",
+      "James Beaufort"
+    ],
+    "country": "Australia"
+  }
+}
